@@ -1,5 +1,5 @@
 {
-  "name": "nearley",
+  "name": "@voidvoxel/nearley",
   "version": "2.20.1",
   "description": "Simple, fast, powerful parser toolkit for JavaScript.",
   "main": "lib/nearley.js",
