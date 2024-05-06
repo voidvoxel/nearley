@@ -1,12 +1,12 @@
 {
-  "name": "@voidvoxel/nearley",
+  "name": "nearley",
   "version": "2.20.1",
   "description": "Simple, fast, powerful parser toolkit for JavaScript.",
   "main": "lib/nearley.js",
   "dependencies": {
     "commander": "^2.19.0",
     "moo": "^0.5.0",
-    "railroad-diagrams": "github:voidvoxel/railroad-diagrams@hotfix/113-input-xss-vulnerability",
+    "railroad-diagrams": "git://github.com/voidvoxel/railroad-diagrams.git#version/1",
     "randexp": "0.4.6"
   },
   "files": [
